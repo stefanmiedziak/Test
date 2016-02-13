@@ -44,3 +44,4 @@ require('inc/footer.php');
 
 
 //Test code
+// Test 2
