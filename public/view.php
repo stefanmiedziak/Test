@@ -41,3 +41,6 @@ $size = (filesize('images/' . $id . '.' . $ext) / 1024);
 require('inc/header.php');
 require('inc/view.php');
 require('inc/footer.php');
+
+
+//Test code
